@@ -4,7 +4,7 @@
 
 💭 I'd like to combine these interests, perhaps by writing a plugin for a DAW (digital audio workstation)
 
-🌱 I’m currently learning introductory computer science through [CS50x](https://cs50.harvard.edu/x/)
+🌱 I’m currently working on my final project for [CS50x](https://cs50.harvard.edu/x/)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
